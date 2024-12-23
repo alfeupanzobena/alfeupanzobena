@@ -78,7 +78,7 @@ I'm a Mobile Developer with 4 years of experience, having worked at four differe
     title="NodeJs"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
 <br/>
