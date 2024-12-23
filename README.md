@@ -18,19 +18,19 @@ A Software Engineer with 4 years of experience, having worked at four different 
 />
 <img 
     align="left" 
-    alt="Dart"
-    title="Dart" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Swift"
     title="Swift" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Dart"
+    title="Dart" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
 />
 <img 
     align="left" 
