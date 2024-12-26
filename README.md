@@ -2,7 +2,7 @@
 
 **`I'm Alfeu Panzo Bena 👨🏾‍💻`**
 
-A Software Engineer with 4 years of experience, having worked at four different companies. I'm 24 years old and based in Luanda, Angola. Passionate about technology, I thrive on creating impactful and innovative solutions..
+A Software Engineer with 5 years of experience, having worked at four different companies. I'm 24 years old and based in Luanda, Angola. Passionate about technology, I thrive on creating impactful and innovative solutions..
 
 ---
 
